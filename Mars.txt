@@ -2,3 +2,4 @@ This is a file about Mars.
 Mars is cold and dry, but we still like it a lot.
 A new line...
 But that will change in a couple of years.
+The first people will be on Mars in ten years.
